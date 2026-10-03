@@ -21,15 +21,6 @@ Descripción: Una plataforma simple para comercio electrónico de una ferreterí
 Tecnologías: `HTML5`, `JavaScript`, `CSS`
 Enlaces: 📂 Código(https://github.com/javidev21/pagina_matsal)
 ---
-📊 Mis Estadísticas de GitHub
-(Estas tarjetas se actualizarán automáticamente con tu actividad real)
-<!-- REPLAZA "tu-usuario" por tu nombre exacto de GitHub en los siguientes enlaces -->
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" />
-  <br/>
-  <img src="https://vercel.app" alt="Lenguajes más usados" />
-</p>
----
 📬 Conéctate conmigo
 ¿Tienes algún proyecto en mente o simplemente quieres saludar?
 LinkedIn: ://linkedin.com/in/darikson-dante-seminario-sandoval/
