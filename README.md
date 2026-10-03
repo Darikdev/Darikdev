@@ -23,5 +23,5 @@ Enlaces: 📂 Código(https://pagina-matsalas1.onrender.com/index.html#)
 ---
 📬 Conéctate conmigo
 ¿Tienes algún proyecto en mente o simplemente quieres saludar?
-LinkedIn: :linkedin.com/in/darikson-dante-seminario-sandoval/
+LinkedIn: :https://www.linkedin.com/in/darikson-dante-seminario-sandoval/
 Email: dariksonsandoval22@gmail.com
